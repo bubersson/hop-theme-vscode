@@ -1,2 +1,4 @@
-# hop-theme-vscode
-Theme for Visual Studio Code
+# README
+## Light theme for Visual Studio Code with friendly colors 
+
+**Enjoy!**
