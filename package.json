@@ -1,0 +1,22 @@
+{
+  "name": "theme-hop-light",
+  "displayName": "Hop Light",
+  "description": "Light theme with friendly colors",
+  "version": "0.0.1",
+  "publisher": "bubersson",
+  "engines": {
+    "vscode": "^1.5.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hop Light",
+        "uiTheme": "vs",
+        "path": "./themes/hop-light.tmTheme"
+      }
+    ]
+  }
+}
