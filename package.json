@@ -2,7 +2,7 @@
   "name": "theme-hop-light",
   "displayName": "Hop Light",
   "description": "Light theme with friendly colors",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "bubersson",
   "engines": {
     "vscode": "^1.5.0"
@@ -10,6 +10,12 @@
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
+  "homepage": "https://github.com/bubersson/hop-theme-vscode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bubersson/hop-theme-vscode.git"
+  },
   "contributes": {
     "themes": [
       {
