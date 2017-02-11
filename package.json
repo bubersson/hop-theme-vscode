@@ -2,7 +2,7 @@
   "name": "theme-hop-light",
   "displayName": "Hop Light",
   "description": "Light theme with friendly colors",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "bubersson",
   "engines": {
     "vscode": "^1.5.0"
