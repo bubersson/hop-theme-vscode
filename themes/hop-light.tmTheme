@@ -73,7 +73,7 @@
             <key>name</key>
             <string>Built-in constant</string>
             <key>scope</key>
-            <string>constant.language</string>
+            <string>support.constant, constant.language</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -84,7 +84,7 @@
             <key>name</key>
             <string>User-defined constant</string>
             <key>scope</key>
-            <string>constant.character, constant.other</string>
+            <string>variable.other.constant.property, constant.character, constant.other</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -106,7 +106,7 @@
             <key>name</key>
             <string>This</string>
             <key>scope</key>
-            <string>variable.this</string>
+            <string>variable.language.this</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -148,9 +148,9 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>Storage type comment</string>
+            <string>Storage JSdoc param</string>
             <key>scope</key>
-            <string>storage.type.comment</string>
+            <string>storage.type.class.jsdoc</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -183,11 +183,22 @@
             <key>name</key>
             <string>JSDoc Variable</string>
             <key>scope</key>
-            <string>comment.token.variable</string>
+            <string>variable.other.jsdoc</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
                 <string>#8a8a8a</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Comment Block</string>
+            <key>scope</key>
+            <string>comment.block.documentation</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#fdfdfd</string>
             </dict>
         </dict>
         <dict>
