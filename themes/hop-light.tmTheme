@@ -21,6 +21,10 @@
                 <string>#F5F5F5</string>
                 <key>selection</key>
                 <string>#C2E8F4</string>
+                <key>editorSuggestWidget.focusHighlightForeground</key>
+                <string>#D4E0FF</string>
+                <key>list.focusHighlightForeground</key>
+                <string>#D4E0FF</string>
             </dict>
         </dict>
         <dict>
