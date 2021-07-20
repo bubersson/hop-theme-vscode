@@ -22,9 +22,9 @@
                 <key>selection</key>
                 <string>#C2E8F4</string>
                 <key>editorSuggestWidget.focusHighlightForeground</key>
-                <string>#D4E0FF</string>
+                <string>#5ADEFF</string>
                 <key>list.focusHighlightForeground</key>
-                <string>#D4E0FF</string>
+                <string>#5ADEFF</string>
             </dict>
         </dict>
         <dict>
